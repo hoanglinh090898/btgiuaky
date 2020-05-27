@@ -1,0 +1,6 @@
+D:\text web form\baiktgiuaky\Bai1\bin\Debug\Bai1.exe.config
+D:\text web form\baiktgiuaky\Bai1\bin\Debug\Bai1.exe
+D:\text web form\baiktgiuaky\Bai1\bin\Debug\Bai1.pdb
+D:\text web form\baiktgiuaky\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+D:\text web form\baiktgiuaky\Bai1\obj\Debug\Bai1.exe
+D:\text web form\baiktgiuaky\Bai1\obj\Debug\Bai1.pdb

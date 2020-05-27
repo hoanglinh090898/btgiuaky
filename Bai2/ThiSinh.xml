@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSSV>
+  <ThiSinh>
+    <SBD>1</SBD>
+    <HT>Thi Sinh 1</HT>
+    <NamSinh>1995</NamSinh>
+    <Toan>9</Toan>
+    <Van>8</Van>
+    <NN>7.5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>2</SBD>
+    <HT>Thi Sinh 2</HT>
+    <NamSinh>1996</NamSinh>
+    <Toan>5</Toan>
+    <Van>5</Van>
+    <NN>7.5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>3</SBD>
+    <HT>Thi Sinh 3</HT>
+    <NamSinh>1997</NamSinh>
+    <Toan>9</Toan>
+    <Van>8</Van>
+    <NN>7.5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>4</SBD>
+    <HT>Thi Sinh 4</HT>
+    <NamSinh>1998</NamSinh>
+    <Toan>10</Toan>
+    <Van>5</Van>
+    <NN>6.5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>5</SBD>
+    <HT>Thi Sinh 5</HT>
+    <NamSinh>1999</NamSinh>
+    <Toan>5</Toan>
+    <Van>5</Van>
+    <NN>5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>6</SBD>
+    <HT>Thi Sinh 6</HT>
+    <NamSinh>1995</NamSinh>
+    <Toan>10</Toan>
+    <Van>10</Van>
+    <NN>9.5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>7</SBD>
+    <HT>Thi Sinh 7</HT>
+    <NamSinh>1994</NamSinh>
+    <Toan>5</Toan>
+    <Van>4</Van>
+    <NN>2.5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>8</SBD>
+    <HT>Thi Sinh 8</HT>
+    <NamSinh>1992</NamSinh>
+    <Toan>9</Toan>
+    <Van>8</Van>
+    <NN>7.5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9</SBD>
+    <HT>Thi Sinh 9</HT>
+    <NamSinh>1997</NamSinh>
+    <Toan>9</Toan>
+    <Van>8</Van>
+    <NN>7.5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>10</SBD>
+    <HT>Thi Sinh 10</HT>
+    <NamSinh>1997</NamSinh>
+    <Toan>9</Toan>
+    <Van>8</Van>
+    <NN>7.5</NN>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>11</SBD>
+    <HT>Thi Sinh 11</HT>
+    <NamSinh>1997</NamSinh>
+    <Toan>9</Toan>
+    <Van>8</Van>
+    <NN>7.5</NN>
+  </ThiSinh>
+</DSSV>
